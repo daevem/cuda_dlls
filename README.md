@@ -1,4 +1,4 @@
-# cuda_dlls
+# CUDA DLLs and Libs
 Just a handy collection of some CUDA related DLLs and libs to be accessed individually.
 
 ## Disclaimer
